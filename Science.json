@@ -1,0 +1,128 @@
+{
+
+   "noOfQuestions": "10",
+
+  "Questions": [
+    {
+    "Question":"How many bones human body have?",
+
+     "Options": [
+       "100",
+       "200",
+       "300",
+       "206"
+      ],
+
+      "truee":"206"
+    
+
+},
+
+
+      
+  {
+    "Question":"How many fingers body have?", 
+
+     "Options": [
+       "Mercury",
+       "Pluto",
+      "Neptune",
+       "Uranus"
+      ],
+
+      "truee":"Neptune"
+},
+
+
+      
+  {
+    "Question":"Severe deficiency of Vitamin D results in __________.", 
+
+     "Options": [
+       "scurvy",
+       "rickets",
+      "night blindness",
+       "osteomalacia"
+      ],
+
+      "truee":"rickets"
+},
+
+
+      
+  {
+    "Question":"Milk contains water", 
+
+     "Options": [
+       "70%",
+       "75%",
+      "80%",
+       "90%"
+      ],
+
+      "truee":"80%"
+},
+
+
+      
+  {
+    "Question":"The SI unit of charge is __________?", 
+
+     "Options": [
+       "Ampere",
+       "Coulomb",
+      "Ohm",
+       "Volt"
+      ],
+
+      "truee":"Coulomb"
+},
+
+
+      
+  {
+    "Question":"Very High Frequency (VHF) have __________ wavelengths?", 
+
+     "Options": [
+       "shorter",
+       "shortest",
+      "longer",
+       "longest"
+      ],
+
+      "truee":"shorter"
+},
+
+
+      
+  {
+    "Question":"Long-sight defect could be corrected by using __________ lens?", 
+
+     "Options": [
+       "concave",
+       "Convex",
+      "diverging",
+       "none of these"
+      ],
+
+      "truee":"Convex"
+},
+
+
+      
+  {
+    "Question":"For a fixed mass of gass at constant temperature, if we decrease volume, the pressure will _________?", 
+
+     "Options": [
+       "also decrease",
+       "increase",
+      "remains constant",
+       "none of these"
+      ],
+
+      "truee":"increase"
+}
+
+ 
+ ]
+}

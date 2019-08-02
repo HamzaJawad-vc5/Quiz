@@ -1,0 +1,132 @@
+#background{
+	  
+	margin: auto;
+  width: 55%;
+  border: 3px solid #8a8ad8;
+  background-color: #8a8ad8;
+  text-align: center;
+  color: white;
+  border-radius: 8px;
+  margin-top: 45px;
+padding: 1px 0px;
+}		
+#inner{
+	display: none;
+	position: relative;
+	width: 100%;
+	background-color: white;
+	color: black;
+}
+#quest{
+background-color: white;
+position: relative;
+width: 69%;
+word-wrap    : break-word;
+overflow-wrap: break-word;
+}
+#other{
+	background-color: white;
+	position: relative;
+	width: 35%;
+	margin-left: 2%;
+word-wrap    : break-word;
+overflow-wrap: break-word;
+	padding: 17px
+}
+
+
+#quizResult{
+	display: none;
+	background-color: white;
+	color: black;
+}
+
+#start{
+background-color: white;
+    color: black;
+    text-align: left;
+}
+
+
+#display{
+	text-align: justify;
+  text-justify: inter-word;
+}
+
+#start h1{
+	margin-left: 30px;
+}
+#start form{
+	margin-left: 30px;
+}	
+#dneBtn{
+	margin: 13px;
+}
+
+
+#quest form{
+	margin-left: 30px;
+	padding-bottom: 40px
+}
+
+#some{
+	margin-bottom: 10px;
+}
+
+#nxtbtn{
+	position:absolute;
+	bottom: 30px;
+	right : 60%;
+
+}
+
+
+
+.vertical-line{
+	width:2px;
+    background-color:grey;
+    position:absolute;
+    top:8px;
+    bottom:8px;
+    left:0px;
+        
+    }
+
+#num{
+	display: inline-block;
+	  border: 1px solid #8a8ad8;
+width: 25px;
+height: 25px;
+margin-left: 20px;
+margin-top: 35px;
+	}
+
+
+/*tr td {
+	text-align: center;
+	padding:0px 70px 0px 70px;
+
+}*/
+
+
+#dneBtn{
+	background-color: #4949dade;
+	padding: 4px 19px;
+	color: white;
+	border-radius: 6px;
+}
+
+#nxtbtn{
+	background-color: #4949dade;
+	padding: 4px 19px;
+	color: white;
+	border-radius: 6px;
+}
+
+/*.input[type=button]:focus {
+	outline: none;
+}
+
+.input[type=button] > span {
+	vertical-align: middle;
+}*/

@@ -1,0 +1,38 @@
+{
+
+    "noOfQuestions": "10",
+
+  "Questions": [
+    {
+    "Question":"Who is our president?",
+
+     "Options": [
+       "nawaz shreif",
+       "noOne",
+       "Imran Khan",
+       "Musharaf"
+      ],
+
+      "truee":"Imran Khan"
+    
+
+},
+
+
+      
+  {
+    "Question":"Name the capital of pakistan?", 
+
+     "Options": [
+       "peshawar",
+       "lahore",
+      "kabul",
+       "islamabad"
+      ],
+
+      "truee":"islamabad"
+}
+
+ 
+ ]
+}
