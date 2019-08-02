@@ -29,7 +29,7 @@ if(document.subject.SelectSubject.value !== ''){
 for (var j = 0; j < allQuest.length ; j++) {
 	numQues.innerHTML=numQues.innerHTML+('<p id="num">'+j+'</p>');
 }
-nextBtnCall();} ,200);
+nextBtnCall();} ,1000);
 
 }else{
 
